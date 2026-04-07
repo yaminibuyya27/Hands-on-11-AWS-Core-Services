@@ -72,7 +72,7 @@ The crawler scanned the CSV file in the `raw/` folder, automatically inferred al
 ![Glue Crawler](ScreenShots/AWS_Glue_Crawler.png)
 
 **Glue Crawler — Data source showing S3 path s3://handson-11yamini/raw/:**  
-![Glue Crawler Data Source](ScreenShots/Glue_Crawler_datasource.png)
+![Glue Crawler Data Source](ScreenShots/Glue_crawler_datasource.png)
 
 ---
 
